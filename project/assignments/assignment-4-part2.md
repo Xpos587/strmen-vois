@@ -503,7 +503,7 @@ VOIS занимает 1-е место по трём из шести параме
 ## Источники
 
 - Методика: [books.ifmo.ru/file/pdf/2529.pdf, с. 12--18](https://books.ifmo.ru/file/pdf/2529.pdf) -- Метод расстановки приоритетов (экспертная оценка)
-- Профиль компании: `project/notes/vois-profile.md`
+- Профиль компании: [vois-profile.md](../notes/vois-profile.md)
 - Forbes: [Как бренд косметики с маркетплейсов зарабатывает миллиарды](https://www.forbes.ru/svoi-biznes/537023-kak-brend-kosmetiki-s-marketplejsov-zarabatyvaet-milliardy-za-scet-stata-blogerov)
 - VOIS official: [vois.ru/about-us](https://vois.ru/about-us), [vois.ru/our-manufacturing](https://vois.ru/our-manufacturing)
 - ТРЕСеммe: [tresemme.com](https://www.tresemme.com)

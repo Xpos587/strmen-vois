@@ -1,7 +1,7 @@
 # Задание 1
 
 **Лекция:** Стратегический менеджмент (вводная лекция)
-**Источник:** `lectures/lecture-1/Задание 1 + функции менеджмента.pdf`
+**Источник:** [Задание 1 + функции менеджмента.pdf](../../lectures/lecture-1/%D0%97%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5%201%20%2B%20%D1%84%D1%83%D0%BD%D0%BA%D1%86%D0%B8%D0%B8%20%D0%BC%D0%B5%D0%BD%D0%B5%D0%B4%D0%B6%D0%BC%D0%B5%D0%BD%D1%82%D0%B0.pdf)
 
 ## Задание
 
@@ -10,4 +10,4 @@
 
 ## Ответ
 
-> См. `project/notes/vois-profile.md` и `project/presentation-1.md` (слайды «О бренде VOIS» и «Тенденции и перспективы»).
+> См. [vois-profile.md](../notes/vois-profile.md) и [presentation-1.md](../presentation-1.md) (слайды «О бренде VOIS» и «Тенденции и перспективы»).

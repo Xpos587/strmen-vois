@@ -2,7 +2,7 @@
 
 **Лекция:** Стратегический менеджмент (лекции 3--4)
 **Объект:** VOIS (ООО «Рокет Лаунч»)
-**Данные:** `project/notes/vois-profile.md`, [vois.ru/our-manufacturing](https://vois.ru/our-manufacturing)
+**Данные:** [vois-profile.md](../notes/vois-profile.md), [vois.ru/our-manufacturing](https://vois.ru/our-manufacturing)
 
 ---
 
@@ -132,7 +132,7 @@ VOIS реализует многоуровневую систему контро
 
 ## Источники
 
-- Профиль компании: `project/notes/vois-profile.md`
+- Профиль компании: [vois-profile.md](../notes/vois-profile.md)
 - VOIS official: [vois.ru/our-manufacturing](https://vois.ru/our-manufacturing)
 - VOIS official: [vois.ru/about-us](https://vois.ru/about-us)
 - Forbes: [Как бренд косметики с маркетплейсов зарабатывает миллиарды](https://www.forbes.ru/svoi-biznes/537023-kak-brend-kosmetiki-s-marketplejsov-zarabatyvaet-milliardy-za-scet-stata-blogerov)
