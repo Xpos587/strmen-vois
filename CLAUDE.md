@@ -14,7 +14,7 @@
 ```
 strmen-vois/
 ├── project/
-│   ├── assignments/          # Задания 1-6 (условия + ответы)
+│   ├── assignments/          # Задания 1-11 (условия + ответы)
 │   ├── goal-tree/            # Дерево целей VOIS
 │   ├── notes/                # Исходные данные (vois-profile.md)
 │   └── presentation-1.md     # Презентация 1: миссии и цели
